@@ -36,7 +36,7 @@
 		"apollo-server-express": "^2.6.3",
 		"bcrypt": "^3.0.6",
 		"cache-manager": "^2.9.1",
-		"class-transformer": "^0.2.3",
+		"class-transformer": "^0.3.1",
 		"class-validator": "^0.9.1",
 		"compression": "^1.7.4",
 		"csurf": "^1.10.0",
